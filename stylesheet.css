@@ -1,0 +1,29 @@
+* {
+    padding-left: 5px;
+}
+header {
+    color: #ff0066;
+    padding-top: 5px;
+}
+body {
+    background-color: #ccffcc;
+    font-family: Arial;
+    font-size: 14px;
+}
+h3 {
+    color: #00ff99;
+}
+li {
+    list-style-type: none ;
+    padding: 8px;
+}
+li:before{
+    content:"°";
+    color: #00ff99;
+    padding-right: 5px;
+}
+footer {
+    font-size: 12px;
+    padding-top: 45px;
+    color: #ff0066;
+}
